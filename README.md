@@ -37,6 +37,22 @@ Donate some BTC for future projects
 7. python3 CyberPhish.py
 8. !Enjoy!
 
+# 🙌 Donate to Support Development
+
+If you find this tool useful and want to support future updates, you can donate in crypto:
+
+    BTC: 364wCdw46JBGwtk674N4Cj87ErWNVTNvBc
+
+    ETH: 0x4d2c6d55a7ab2874ef5fd172d78da6e553ab9126
+
+    USDT (TRC20): TSgLpf9AawGLnHYRFhp5XqNgLVk7Y7kZBg
+
+    SOL: 3VGJAH5n8NJFKFoC4GPZWay8QJrL5upd33i7WHMpcGpv
+
+    LTC: MASRzRJPy9UxuagdXqzcY9N89NvPMUreNj
+
+Your support helps keep the project alive and free for everyone. Thank you!
+
 
 # Old Release Screenshot
 ![CyberPhish](https://user-images.githubusercontent.com/93708296/184074653-fc349ee4-2fe8-4ba7-be34-a8be88bcd4b2.png)
